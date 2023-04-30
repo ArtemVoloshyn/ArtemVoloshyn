@@ -1,4 +1,6 @@
 ### Hi there 👋
+This is the place for my DevOps CV in near future.
+
 
 <!--
 **ArtemVoloshyn/ArtemVoloshyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
